@@ -28,7 +28,7 @@ def analyze_string(s):
  
  
 def main():
-    user_input = input("Enter A String To Analyze:")
+    user_input = input("Enter A String To Analyze: ")
     analyze_string(user_input)
  
  
